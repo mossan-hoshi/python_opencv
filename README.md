@@ -23,12 +23,12 @@ OpenCV-based python environment sample.
   
 
 ## How to Execute
-### When Using VSCode
+### Executing on VSCode
 1. Open repository folder by VSCode, and activate virtual environment.
   ![](image/2021-10-02-21-56-48.png)
 2. Run by using VSCode's debug function.
 
-### When Using from Shell
+### Executing from Shell
 1. Open repository folder by shell terminal.
 2. launch pipenv shell.
   - execute command `pipenv shell`
