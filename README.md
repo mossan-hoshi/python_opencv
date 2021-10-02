@@ -31,7 +31,7 @@ OpenCV-based python environment sample.
 ### Executing from Shell
 1. Open repository folder by shell terminal.
 2. launch pipenv shell.
-  - execute command `pipenv shell`
+    - execute command `pipenv shell`
 3. Run the program.
 ```shell
 python `
